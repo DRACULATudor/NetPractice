@@ -31,8 +31,8 @@
   - `192.168.0.0 - 192.168.255.255`
 - Public IPs are assigned by ISPs for internet access.
 
+![Screenshot from 2025-03-21 14-16-28](https://github.com/user-attachments/assets/2f764031-a5d6-4891-a198-c4189b4a595e)
 
-[Screenshot from 2025-03-21 14-16-28](https://github.com/user-attachments/assets/96bfe45b-3d8a-4da4-aebe-61978d29a988))
 
 ## Common Tasks in NetPractice
 
