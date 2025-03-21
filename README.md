@@ -34,11 +34,13 @@
 
 ## Correct solving of the most difficult levels for exam: 
 
-<details>
-  <summary>Click to see the image</summary>
-    ![Screenshot from 2025-03-21 14-53-28](https://github.com/user-attachments/assets/548d6561-5b4e-4239-8fda-a5a5bda4d352)
- </details>
+# level 8:
+![Screenshot from 2025-03-21 14-53-28](https://github.com/user-attachments/assets/548d6561-5b4e-4239-8fda-a5a5bda4d352)
+
+# level 9:
 ![Screenshot from 2025-03-21 14-16-28](https://github.com/user-attachments/assets/2f764031-a5d6-4891-a198-c4189b4a595e)
+
+# level 10
 ![Screenshot from 2025-03-21 14-57-16](https://github.com/user-attachments/assets/1196d93a-ca27-42bc-be00-adc0863a027c)
 
 
